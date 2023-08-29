@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(90, 86, 86);
+}
+
+.sunrise {
+  background-image: url(Sunrise2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-width: 300px;
+  min-height: 120px;
+  align-content: center;
+  margin: 12px 15px 5px 15px;
+  border: 2px solid rgb(18, 108, 226);
+}
+
+.titlecontainer {
+  margin: auto;
+  width: 50%;
+  color: white;
+  justify-items: center;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px
+}
+
+
+.lowerContainer {
+  margin: 12px 15px 5px 15px;
+  background-color: whitesmoke;
+  min-height: 640px;
+  border: 2px solid rgb(18, 108, 226);
+}
+
+.zuluHut {
+  background-image: url(zulu-africa2.jpg);
+  opacity: 0.8;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 20px;
+  margin-bottom: 0px;
+  min-width: 1300px;
+  height: 460px;
+  border: 1px solid rgb(77, 75, 75);
+}
+
+#viewtitle2 {
+  margin-top: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+  background-color: rgb(18, 108, 226);
+  color: white;
+}
+
+.bottomContainer {
+  margin-left: 20px;
+  padding: 10px;
+  padding-top: 0px;
+}
+
+#download,
+#readmore {
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
