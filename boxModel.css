@@ -17,9 +17,9 @@ body {
   margin: auto;
   width: 50%;
   color: white;
-  align-content: center;
-  justify-items: center;
+  text-align: center;
   font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
   padding: 10px
 }
 
@@ -27,7 +27,7 @@ body {
 .lowerContainer {
   margin: 12px 15px 5px 15px;
   background-color: whitesmoke;
-  min-height: 640px;
+  min-height: 750px;
   border: 2px solid rgb(18, 108, 226);
 }
 
@@ -60,6 +60,7 @@ body {
 
 #download,
 #readmore {
-  margin-bottom: 10px;
-  padding-top: 20px;
+  display: block;
+  margin-bottom: 5px;
+  padding-top: 10px;
 }
